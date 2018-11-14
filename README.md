@@ -29,11 +29,11 @@ figure.3(diagramme de classe)
 
 
 4.les technologies:
-Appication image
+#Appication image
 OpenShift Container Platform fournit un processus S2I (source à image) pour créer et exécuter des applications permettant de joindre le code source d’une application au-dessus d’une image de constructeur (une image technologique telle que JBoss EAP).Il permet aux utilisateurs de créer et d'exécuter des applications Java simples
-Base de Donnée
+#Base de Donnée
 OpenShift Container Platform fournit une image de conteneur pour l'exécution de MySQL. Cette image peut fournir des services de base de données basés sur les paramètres de nom d'utilisateur, mot de passe et nom de base de données fournis via la configuration.
-QuikStart apllication template 
+#QuikStart apllication template 
 Il s'agit d'un exemple de référentiel d'applications très basique qui peut être créé et déployé sur OpenShift à l'aide de l'image du générateur Serveur HTTP Apache
 
 
