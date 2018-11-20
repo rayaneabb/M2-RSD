@@ -1,23 +1,26 @@
 # application-Conversion
+# Rapport:
 
-Binome :
-tahraoui randa
-abboudi raian
-Rapport :
+# Binome :
+# Tahraoui Randa
+# Abboudi Raian
 
-1.architecture globale de l'application : on choisit les web services:
+
+# # 1.Architecture globale de l'application : on choisi les web services:
 https://user-images.githubusercontent.com/44061285/48780549-78e37b80-ecda-11e8-8cf9-c4ab7fccd9a9.png
 
-pour créer cette application il faut :
-1 service d'email
-2 un service pour choisir la conversion 
-3.un service de téléchargement en 5 mn
- 
+Pour créer cette application il faut :
+Coté Serveur :
+1. Service d'email
+2. Service pour choisir la conversion 
+3. Service de téléchargement en 5 mn
 
-2.architecture de la couche donnée: on choisit L'architecture trois tiers parce que C'est une architecture basée sur l'environnement client-serveur.: 
-figure.2
 
-modèle plus général qu'est le multi-tiers. L'architecture logique du système est divisée en trois niveaux ou couches:
+# # 2.Architecture de la couche donnée:
+on choisi L'architecture trois tiers parce que C'est une architecture basée sur l'environnement client-serveur: 
+modèle plus général qu'est le multi-tiers.
+
+L'architecture logique du système est divisée en trois niveaux ou couches:
 1.Couche de présentation (premier niveau): On parle d'interface homme-machine(ici les interfaces pour choisir la conversion et..)
 2.Couche de traitement (deuxième niveau: Elle correspond ‡ la partie fonctionnelle de l'application(dans notre application 
 le code de l’application c.-à-d. les opérations de chaque serveur)
