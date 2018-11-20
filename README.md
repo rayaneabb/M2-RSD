@@ -25,7 +25,8 @@ le code de l’application c.-à-d. les opérations de chaque serveur)
 dans cette application on installe un serveur SQL comme xamp ou wamp pour gérer les donnes).
 
 3.La manière de gestion des demandes des clients :
-figure.3(diagramme de classe)  
+(diagramme de classe)  
+https://user-images.githubusercontent.com/44061285/48780543-754ff480-ecda-11e8-9c69-aa43b9012bd0.png
 
 
 4.les technologies:
@@ -35,7 +36,6 @@ OpenShift Container Platform fournit un processus S2I (source à image) pour cr�
 OpenShift Container Platform fournit une image de conteneur pour l'exécution de MySQL. Cette image peut fournir des services de base de données basés sur les paramètres de nom d'utilisateur, mot de passe et nom de base de données fournis via la configuration.
 #QuikStart apllication template 
 Il s'agit d'un exemple de référentiel d'applications très basique qui peut être créé et déployé sur OpenShift à l'aide de l'image du générateur Serveur HTTP Apache
-
 
 
 
