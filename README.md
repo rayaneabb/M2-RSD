@@ -6,7 +6,7 @@ abboudi raian
 Rapport :
 
 1.architecture globale de l'application : on choisit les web services:
-figure.1
+https://user-images.githubusercontent.com/44061285/48780549-78e37b80-ecda-11e8-8cf9-c4ab7fccd9a9.png
 
 pour créer cette application il faut :
 1 service d'email
