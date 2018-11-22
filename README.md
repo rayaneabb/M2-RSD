@@ -4,6 +4,7 @@
 # Binome :
 # Tahraoui Randa
 # Abboudi Raian
+![see mvc architecture](https://user-images.githubusercontent.com/44061285/48923244-3a51ea80-eead-11e8-83ce-bc231cab4a36.jpg)
 
 
 ## 1.Architecture globale de l'application : on choisi les web services:
