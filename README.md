@@ -9,6 +9,7 @@
 ## 1.Architecture globale de l'application : on choisi les web services:
 https://user-images.githubusercontent.com/44061285/48780549-78e37b80-ecda-11e8-8cf9-c4ab7fccd9a9.png
 
+
 Pour créer cette application il faut :
 Coté Serveur :
 1. Service d'email
