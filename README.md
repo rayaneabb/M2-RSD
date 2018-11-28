@@ -35,6 +35,9 @@ Un serveur SQL comme Xamp ou Wamp pour gérer les donnes)
 
 
 ## 3.La manière de gestion des demandes des clients :
+![table 2](https://user-images.githubusercontent.com/44061285/49148516-e0677f80-f307-11e8-84a1-d8088c754886.PNG)
+![table](https://user-images.githubusercontent.com/44061285/49148518-e0677f80-f307-11e8-9006-29302555b5cf.PNG)
+
 
 
 Le client choisi la conversion voulu à travers l’application en envoyant un email (une tache facultatif)
