@@ -4,11 +4,13 @@
 # Binome :
 # Tahraoui Randa
 # Abboudi Raian
-![see mvc architecture](https://user-images.githubusercontent.com/44061285/48923244-3a51ea80-eead-11e8-83ce-bc231cab4a36.jpg)
+
 
 
 ## 1.Architecture globale de l'application : on choisi les web services:
 ![webbb](https://user-images.githubusercontent.com/44061285/49148186-f759a200-f306-11e8-82fc-070e47047271.png)
+(diagramme de classe)  
+https://user-images.githubusercontent.com/44061285/48780543-754ff480-ecda-11e8-9c69-aa43b9012bd0.png
 
 
 Pour créer cette application il faut :
@@ -22,7 +24,7 @@ https://user-images.githubusercontent.com/44061285/49147636-7e0d7f80-f305-11e8-9
 ## 2.Architecture de la couche donnée:
 On choisi L'architecture trois tiers parce que C'est une architecture basée sur l'environnement client-serveur: 
 modèle plus général est le multi-tiers.
-https://user-images.githubusercontent.com/44061285/48780546-7719b800-ecda-11e8-96cd-39f40cb331cb.png
+
 
 L'architecture logique du système est divisée en trois niveaux ou couches:
 
@@ -33,9 +35,8 @@ Un serveur SQL comme Xamp ou Wamp pour gérer les donnes)
 
 
 ## 3.La manière de gestion des demandes des clients :
-(diagramme de classe)  
-https://user-images.githubusercontent.com/44061285/48780543-754ff480-ecda-11e8-9c69-aa43b9012bd0.png
-Coté Client :
+
+
 Le client choisi la conversion voulu à travers l’application en envoyant un email (une tache facultatif)
 La demande sera enregistrée dans une base 
 Un message sera envoyé lors de l’enregistrement de la demande    accompagné d’un lien qui mène vers une page de statut là ou il trouvera sa demande s’il elle est en attente ou en cours ou bien terminé 
