@@ -9,8 +9,9 @@
 
 ## 1.Architecture globale de l'application : on choisi les web services:
 ![webbb](https://user-images.githubusercontent.com/44061285/49148186-f759a200-f306-11e8-82fc-070e47047271.png)
-(diagramme de classe)  
-https://user-images.githubusercontent.com/44061285/48780543-754ff480-ecda-11e8-9c69-aa43b9012bd0.png
+diagramme de classe  
+
+![classdiagram1](https://user-images.githubusercontent.com/44061285/49475749-52642b00-f818-11e8-80c8-582bfe3ae579.jpg)
 
 
 Pour créer cette application il faut :
@@ -26,7 +27,7 @@ On choisi L'architecture trois tiers parce que C'est une architecture basée sur
 modèle plus général est le multi-tiers.
 
 
-L'architecture logique du système est divisée en trois niveaux ou couches:
+L'architecture logique du système est divisée en trois niveaux ou couches :
 
 1.Couche de présentation (premier niveau) : On parle De L’interface homme-machine
 2.Couche de traitement (deuxième niveau : Elle correspond à la partie fonctionnelle de l’application (c.-à-d. les opérations de chaque serveur)
@@ -52,7 +53,6 @@ OpenShift Container Platform fournit un processus S2I (source à image) pour cr�
 
 2.JAVA EE :
 Java Platform, Enterprise Edition, Java EE ou Jakarta EE est une spécification pour la plate-forme Java d'Oracle, destinée aux applications d'entreprise2. La plate-forme étend Java Platform, Standard Edition (Java SE) en fournissant une API de mapping objet-relationnel, des architectures distribuées et multitiers, et des services web3. La plate-forme se fonde principalement sur des composants modulaires exécutés sur un serveur d'applications
-
 
 
 
